@@ -32,12 +32,10 @@ The system automates corporate physical security and room climate/lighting contr
 ## ꒰ 🎀 ꒱ UML Diagrams
 
 ### 1. Use Case Diagram
-*(Upload your diagram image as `use-case-diagram.png` to display it right here!)*
-![Use Case Diagram](use-case-diagram.png)
+![Use Case Diagram](use-case-diagram.jpg)
 
 ### 2. Class Diagram
-*(Upload your diagram image as `class-diagram.png` to display it right here!)*
-![Class Diagram](class-diagram.png)
+![Class Diagram](class-diagram.jpg)
 
 ‧₊˚ ⋅ ─────────────────────── ⋅ ˚₊‧
 
