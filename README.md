@@ -2,7 +2,7 @@
 
   <p>─────────────────────── ✦ ───────────────────────</p>
 
-  <h1>˚₊‧꒰ა Controle de Acesso Inteligente & Automação IoT (UML) ໒꒱‧₊˚</h1>
+  <h1>꒰ა Controle de Acesso Inteligente & Automação IoT (UML) ໒꒱</h1>
 
   <p>
     <i>Estudo de caso de engenharia de software com requisitos, Casos de Uso e Diagrama de Classes para prédio inteligente com biometria facial e automação por voz.</i>
